@@ -9,7 +9,7 @@
 [![Spatial analysis](https://img.shields.io/badge/Spatial%20Statistics-KDE%20%7C%20NN%20%7C%20Ripley's%20K-E85D04?style=for-the-badge)](#spatial-statistics)
 [![Data](https://img.shields.io/badge/Data-NASA%20FIRMS%20NOAA--21-087E8B?style=for-the-badge)](https://firms.modaps.eosdis.nasa.gov/)
 
-### 🌍 [**Explore the live dashboard**](https://brudance.shinyapps.io/firewatch-sa/) · 📂 [**Explore the code**](app.R)
+### 🌍 [**Explore the live dashboard**](https://brudance.shinyapps.io/firewatch-sa-kde-map/) · 📂 [**Explore the code**](app.R)
 
 <img src="assets/firewatch-overview.png" width="530" alt="Illustration of South African VIIRS NOAA-21 active fire detections on a national map" />
 
@@ -126,6 +126,6 @@ FIREWATCH-SA/
 **Project:** FIREWATCH SA — Where South Africa Burns  
 **Contributors:** See the GitHub **Contributors** panel; add group members' names here after confirming preferred credit.
 
-### 🚀 [Launch FIREWATCH SA](https://brudance.shinyapps.io/firewatch-sa/)
+### 🚀 [Launch FIREWATCH SA](https://brudance.shinyapps.io/firewatch-sa-kde-map/)
 
 <sub>Developed for academic teaching and exploratory spatial analysis. Satellite data credit: NASA FIRMS. Basemap credit: OpenStreetMap contributors.</sub>
