@@ -124,8 +124,7 @@ FIREWATCH-SA/
 **University:** University of the Witwatersrand  
 **Module:** STAT7006A — Spatial Statistics  
 **Project:** FIREWATCH SA — Where South Africa Burns  
-**Contributors:** See the GitHub **Contributors** panel; add group members' names here after confirming preferred credit.
-
+**Contributors:** 
 ### 🚀 [Launch FIREWATCH SA](https://brudance.shinyapps.io/firewatch-sa-kde-map/)
 
 <sub>Developed for academic teaching and exploratory spatial analysis. Satellite data credit: NASA FIRMS. Basemap credit: OpenStreetMap contributors.</sub>
